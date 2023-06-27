@@ -15,5 +15,5 @@ This is modification done to epo_csa (each piece of carry select adder ) module 
 PROPOSED 16-BIT SQRT CARRY SELECT ADDER BLOCK DIAGRAM :
 ![Screenshot (150)](https://github.com/GSaiManoj3/Carry-Select-Adder/assets/115135766/1e236f01-bc5a-46f8-83c4-be0d6c3f025b)
 
-REFERENCE PDF LINK :
+REFERENCE LINK FOR COMPLETE THEORY PART :
 https://www.akgec.ac.in/wp-content/uploads/2019/06/AKG_Int_Journal_Tech_Vol_6_no_1_9.pdf
